@@ -2,3 +2,4 @@
 featureブランチのテスト
 PRのテスト
 PRのテスト
+VSCodeでのテスト
